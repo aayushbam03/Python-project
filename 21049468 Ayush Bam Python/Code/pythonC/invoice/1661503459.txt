@@ -1,0 +1,13 @@
+Customer Name: Aayush bam 
+Invoice Id: 1661503459 
+Rented Date: 2022/08/26 14-29-19 
+Return Date: 2022/08/31 14-29-19 
+Total Amount: $700 
+Paid: 300 
+Returned: false 
+
+
+
+
+
+3, Hello World, $14, 10 

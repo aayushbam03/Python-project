@@ -1,0 +1,13 @@
+Customer Name: Aayush bam 
+Invoice Id: 1661503579 
+Rented Date: 2022/08/26 14-31-19 
+Return Date: 2022/08/31 14-31-19 
+Total Amount: $750 
+Paid: 100 
+Returned: false 
+
+
+
+
+
+4, Thor love and thunder, $15, 10 

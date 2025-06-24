@@ -1,0 +1,13 @@
+Customer Name: Aayush bam 
+Invoice Id: 1661517304 
+Rented Date: 2022/08/26 18-20-04 
+Return Date: 2022/08/31 18-20-04 
+Total Amount: $6000 
+Paid: 2000 
+Returned: false 
+
+
+
+
+
+1, Blazzer, $12, 100 
